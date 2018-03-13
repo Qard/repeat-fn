@@ -1,0 +1,27 @@
+{
+  "name": "repeat-fn",
+  "version": "1.0.0",
+  "description": "Repeat an async function a number of times",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "repeat",
+    "loop",
+    "function"
+  ],
+  "homepage": "https://github.com/Qard/repeat-fn#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/repeat-fn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/repeat-fn/issues"
+  },
+  "devDependencies": {
+    "tap": "^11.1.2"
+  }
+}
