@@ -1,6 +1,6 @@
 {
   "name": "repeat-fn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repeat an async function a number of times",
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
