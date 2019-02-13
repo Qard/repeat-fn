@@ -1,5 +1,7 @@
 # repeat-fn
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/repeat-fn.svg)](https://greenkeeper.io/)
+
 ## Install
 
 ```sh
